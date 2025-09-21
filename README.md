@@ -1,1 +1,3 @@
-# ECE 5831 Assignments
+
+# ece5831-2025-assignments
+
