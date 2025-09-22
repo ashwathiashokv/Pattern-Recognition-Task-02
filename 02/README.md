@@ -1,3 +1,4 @@
+# ece5831-2025-assignments
 # Numpy Tutorials
 This repository contains an ipynb file that has all the basic concepts of numpy and python. 
 
@@ -33,5 +34,5 @@ In this section I get to know the plotting, subplotting and images.
 
 
 
-# ece5831-2025-assignments
+
 
